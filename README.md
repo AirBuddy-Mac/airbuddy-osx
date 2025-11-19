@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://app-setup-osx.github.io/.github/airbuddy">  
+<a href="https://install-utility-osx.github.io/.github/airbuddy">  
 <img src="https://img.shields.io/badge/💻_Get_AirBuddy-brightgreen?style=for-the-badge&logo=apple" alt="Get AirBuddy">  
 </a>  
 </div>  
